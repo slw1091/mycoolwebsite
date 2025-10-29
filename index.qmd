@@ -1,19 +1,23 @@
 ---
 title: "About Me"
-about:
+about: 
   id: me
   template: broadside
-  image: img/profile.png
+  image: img/profilepic.jpeg
 ---
 
-:::{#me}
-
+::: {#me}
 ## Goals
+
+My name is Sophie Walton, and I'm a first year PhD student. Right now, I'm focused on developing my proposal and the skills I need to execute it.
 
 ## Education
 
+I received my undergraduate degree in Biology from Bowdoin College and my Master's degree in Education from Rhode Island College.
+
 ## Experience
 
+I conducted an honors thesis at Bowdoin. For the past four years, I worked a science teacher.
 :::
 
 Thanks for checking out my web site!

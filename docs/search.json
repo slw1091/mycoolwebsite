@@ -1,5 +1,33 @@
 [
   {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "About Me",
+    "section": "",
+    "text": "My name is Sophie Walton, and I’m a first year PhD student. Right now, I’m focused on developing my proposal and the skills I need to execute it.\n\n\n\nI received my undergraduate degree in Biology from Bowdoin College and my Master’s degree in Education from Rhode Island College.\n\n\n\nI conducted an honors thesis at Bowdoin. For the past four years, I worked a science teacher.\nThanks for checking out my web site!"
+  },
+  {
+    "objectID": "index.html#goals",
+    "href": "index.html#goals",
+    "title": "About Me",
+    "section": "",
+    "text": "My name is Sophie Walton, and I’m a first year PhD student. Right now, I’m focused on developing my proposal and the skills I need to execute it."
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "About Me",
+    "section": "",
+    "text": "I received my undergraduate degree in Biology from Bowdoin College and my Master’s degree in Education from Rhode Island College."
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "About Me",
+    "section": "",
+    "text": "I conducted an honors thesis at Bowdoin. For the past four years, I worked a science teacher."
+  },
+  {
     "objectID": "projects.html#project-2",
     "href": "projects.html#project-2",
     "title": "Projects",
@@ -12,12 +40,5 @@
     "title": "Projects",
     "section": "Project 3",
     "text": "Project 3"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "About Me",
-    "section": "",
-    "text": "Thanks for checking out my web site!"
   }
 ]
